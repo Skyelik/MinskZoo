@@ -1,0 +1,126 @@
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\TastyTravels.exe.config
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\TastyTravels.exe
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\TastyTravels.pdb
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\EntityFramework.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\GMap.NET.Core.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\Newtonsoft.Json.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\System.Buffers.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\System.Data.SqlClient.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\System.Data.SQLite.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\System.Memory.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\Xceed.Document.NET.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\Xceed.Words.NET.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\EntityFramework.xml
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\Newtonsoft.Json.xml
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\System.Buffers.xml
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\System.Data.SqlClient.xml
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\System.Data.SQLite.xml
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\System.Memory.xml
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\obj\Debug\MinskZoo.csproj.AssemblyReference.cache
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.AboutInfo.resources
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.Collection.resources
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.CreateForm.resources
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.CreateService.resources
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.FavoritesForm.resources
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.LogForm.resources
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.Properties.Resources.resources
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.RegForm.resources
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.ServiceForm.resources
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.ZooContact.resources
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\obj\Debug\MinskZoo.csproj.GenerateResource.cache
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\obj\Debug\MinskZoo.csproj.CoreCompileInputs.cache
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\obj\Debug\MinskZoo.csproj.CopyComplete
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.exe
+C:\Users\хонор\OneDrive\Рабочий стол\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.pdb
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\TastyTravels.exe.config
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\TastyTravels.exe
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\TastyTravels.pdb
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\EntityFramework.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\GMap.NET.Core.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\System.Buffers.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\System.Data.SQLite.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\System.Memory.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\Xceed.Document.NET.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\Xceed.Words.NET.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\EntityFramework.xml
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\System.Buffers.xml
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\System.Data.SQLite.xml
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\System.Memory.xml
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\obj\Debug\MinskZoo.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.AboutInfo.resources
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.Collection.resources
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.CreateForm.resources
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.CreateService.resources
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.FavoritesForm.resources
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.LogForm.resources
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.Properties.Resources.resources
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.RegForm.resources
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.ServiceForm.resources
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.ZooContact.resources
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\obj\Debug\MinskZoo.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\obj\Debug\MinskZoo.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\obj\Debug\MinskZoo.csproj.Up2Date
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.exe
+C:\Users\Андрей\Desktop\РабочийЗОО\TastyTravels\obj\Debug\TastyTravels.pdb

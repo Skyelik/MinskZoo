@@ -1,0 +1,545 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439\u0437\u043E\u043E\\tastytravels\\animalimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\animalimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439\u0437\u043E\u043E\\tastytravels\\animalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\animalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439\u0437\u043E\u043E\\tastytravels\\favoritesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\favoritesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439\u0437\u043E\u043E\\tastytravels\\regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439\u0437\u043E\u043E\\tastytravels\\zoocontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\zoocontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\tastytravels\\zoocontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\zoocontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439\u0437\u043E\u043E\\tastytravels\\serviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\serviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439\u0437\u043E\u043E\\tastytravels\\serviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\serviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\tastytravels\\createform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\createform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439\u0437\u043E\u043E\\tastytravels\\createform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\createform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439\u0437\u043E\u043E\\tastytravels\\createservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\createservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\tastytravels\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\tastytravels\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439\u0437\u043E\u043E\\tastytravels\\logform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\logform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439\u0437\u043E\u043E\\tastytravels\\logform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\logform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439\u0437\u043E\u043E\\tastytravels\\regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\TastyTravels.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\tastytravels\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\TastyTravels.csproj|solutionrelative:tastytravels\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\TastyTravels.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\tastytravels\\favoritesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\TastyTravels.csproj|solutionrelative:tastytravels\\favoritesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439\u0437\u043E\u043E\\tastytravels\\favorites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\favorites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\TastyTravels.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\tastytravels\\aboutinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\TastyTravels.csproj|solutionrelative:tastytravels\\aboutinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439\u0437\u043E\u043E\\tastytravels\\aboutinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\aboutinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\TastyTravels.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\tastytravels\\aboutinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\TastyTravels.csproj|solutionrelative:tastytravels\\aboutinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439\u0437\u043E\u043E\\tastytravels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439\u0437\u043E\u043E\\tastytravels\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\tastytravels\\datab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\datab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439\u0437\u043E\u043E\\tastytravels\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\TastyTravels.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\tastytravels\\createform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\TastyTravels.csproj|solutionrelative:tastytravels\\createform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\TastyTravels.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\tastytravels\\zoocontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\TastyTravels.csproj|solutionrelative:tastytravels\\zoocontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\TastyTravels.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\tastytravels\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\TastyTravels.csproj|solutionrelative:tastytravels\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\tastytravels\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\tastytravels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\MinskZoo.csproj|solutionrelative:tastytravels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\TastyTravels.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\tastytravels\\favoritesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC4CB03-224A-4BA4-9D73-2026DA3C6B37}|TastyTravels\\TastyTravels.csproj|solutionrelative:tastytravels\\favoritesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Collection.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\Collection.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\Collection.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\Collection.cs*",
+              "RelativeToolTip": "TastyTravels\\Collection.cs*",
+              "ViewState": "AQIAAK8BAAAAAAAAAAAQwMYBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:41:44.793Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\CreateForm.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\CreateForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\CreateForm.cs",
+              "RelativeToolTip": "TastyTravels\\CreateForm.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAIwMUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:34:35.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\RegForm.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\RegForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\RegForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TastyTravels\\RegForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T22:43:49.226Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\ServiceForm.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\ServiceForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\ServiceForm.cs",
+              "RelativeToolTip": "TastyTravels\\ServiceForm.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAowN0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:02:54.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ZooContact.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\ZooContact.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\ZooContact.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\ZooContact.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TastyTravels\\ZooContact.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:34:35.327Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FavoritesForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\FavoritesForm.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\FavoritesForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\FavoritesForm.cs",
+              "RelativeToolTip": "TastyTravels\\FavoritesForm.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAAcwO8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T22:50:32.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\AnimalInfo.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\AnimalInfo.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\AnimalInfo.cs",
+              "RelativeToolTip": "TastyTravels\\AnimalInfo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:47:43.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalImg.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\AnimalImg.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\AnimalImg.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\AnimalImg.cs",
+              "RelativeToolTip": "TastyTravels\\AnimalImg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:41:05.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Collection.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\Collection.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\Collection.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\Collection.cs",
+              "RelativeToolTip": "TastyTravels\\Collection.cs",
+              "ViewState": "AQIAAOUBAAAAAAAAAAAowPIBAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:34:34.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LogForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\LogForm.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\LogForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\LogForm.cs",
+              "RelativeToolTip": "TastyTravels\\LogForm.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA9wEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:52:20.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\CreateService.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\CreateService.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\CreateService.cs",
+              "RelativeToolTip": "TastyTravels\\CreateService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwDIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:59:45.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\CreateForm.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\CreateForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\CreateForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TastyTravels\\CreateForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:01:14.662Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ZooContact.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\ZooContact.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\ZooContact.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\ZooContact.cs",
+              "RelativeToolTip": "TastyTravels\\ZooContact.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:03:26.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\LogForm.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\LogForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\LogForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TastyTravels\\LogForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T22:10:15.71Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\ServiceForm.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\ServiceForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\ServiceForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TastyTravels\\ServiceForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T22:57:48.872Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\RegForm.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\RegForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\RegForm.cs",
+              "RelativeToolTip": "TastyTravels\\RegForm.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwC0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T22:43:50.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Collection.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\Collection.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\Collection.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\Collection.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TastyTravels\\Collection.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:34:35.012Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FavoritesForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\FavoritesForm.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\FavoritesForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\FavoritesForm.cs*",
+              "RelativeToolTip": "TastyTravels\\FavoritesForm.cs*",
+              "ViewState": "AQIAABMAAAAAAAAAAAA7wCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:38:23.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Favorites.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\Favorites.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\Favorites.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\Favorites.cs",
+              "RelativeToolTip": "TastyTravels\\Favorites.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:57:38.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AboutInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\AboutInfo.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\AboutInfo.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\AboutInfo.cs",
+              "RelativeToolTip": "TastyTravels\\AboutInfo.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwEQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:03:29.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AboutInfo.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\AboutInfo.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\AboutInfo.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\AboutInfo.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TastyTravels\\AboutInfo.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T22:45:11.325Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AboutInfo.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\AboutInfo.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\AboutInfo.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\AboutInfo.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TastyTravels\\AboutInfo.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:03:28.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\User.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\User.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\User.cs",
+              "RelativeToolTip": "TastyTravels\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:53:47.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\Services.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\Services.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\Services.cs",
+              "RelativeToolTip": "TastyTravels\\Services.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:53:48.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\Admin.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\Admin.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\Admin.cs",
+              "RelativeToolTip": "TastyTravels\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:42:53.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Datab.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\Datab.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\Datab.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\Datab.cs",
+              "RelativeToolTip": "TastyTravels\\Datab.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:42:12.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\App.config",
+              "RelativeDocumentMoniker": "TastyTravels\\App.config",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\App.config",
+              "RelativeToolTip": "TastyTravels\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-19T20:40:19.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ZooContact.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\ZooContact.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\ZooContact.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\ZooContact.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TastyTravels\\ZooContact.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:21:18.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\CreateForm.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\CreateForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\CreateForm.cs*",
+              "RelativeToolTip": "TastyTravels\\CreateForm.cs*",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:07:45.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Collection.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\Collection.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\Collection.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\Collection.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "TastyTravels\\Collection.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:00:28.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\Program.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\Program.cs",
+              "RelativeToolTip": "TastyTravels\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:14:21.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FavoritesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\FavoritesForm.cs",
+              "RelativeDocumentMoniker": "TastyTravels\\FavoritesForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439\u0417\u041E\u041E\\TastyTravels\\FavoritesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "TastyTravels\\FavoritesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:54:54.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
